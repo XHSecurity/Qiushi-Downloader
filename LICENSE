@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 XHSecurity
+Copyright (c) 2026 求是刊读下载器 作者
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note: this license covers the application's own source code only. Articles
+downloaded and converted to PDF by this tool remain the copyright of their
+original publisher (求是网 / 《求是》杂志社), per the in-app disclaimer.
