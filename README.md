@@ -64,6 +64,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+![示例图片](img/1.png)
 
 首次运行会在"文稿/Documents/QiuShi_PDF"下创建保存目录（可在设置里更改）。
 
